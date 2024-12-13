@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "NutriCenter.API.Controllers.PlanAlimentarioController",
+    "Method": "CrearPlan",
+    "RelativePath": "api/PlanAlimentario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "NutriCenter.Aplication.Commands.CrearPlanAlimentarioCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NutriCenter.API.Controllers.PlanAlimentarioController",
+    "Method": "ObtenerPlanes",
+    "RelativePath": "api/PlanAlimentario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

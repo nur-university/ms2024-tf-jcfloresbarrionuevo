@@ -1,0 +1,14 @@
+C:\JC\DESARROLLO\EJEMPLO\DESABLAZOR\NutriCenter\NutriCenter.Domian\bin\Debug\net8.0\NutriCenter.Domian.deps.json
+C:\JC\DESARROLLO\EJEMPLO\DESABLAZOR\NutriCenter\NutriCenter.Domian\bin\Debug\net8.0\NutriCenter.Domian.dll
+C:\JC\DESARROLLO\EJEMPLO\DESABLAZOR\NutriCenter\NutriCenter.Domian\bin\Debug\net8.0\NutriCenter.Domian.pdb
+C:\JC\DESARROLLO\EJEMPLO\DESABLAZOR\NutriCenter\NutriCenter.Domian\obj\Debug\net8.0\NutriCenter.Domian.GeneratedMSBuildEditorConfig.editorconfig
+C:\JC\DESARROLLO\EJEMPLO\DESABLAZOR\NutriCenter\NutriCenter.Domian\obj\Debug\net8.0\NutriCenter.Domian.AssemblyInfoInputs.cache
+C:\JC\DESARROLLO\EJEMPLO\DESABLAZOR\NutriCenter\NutriCenter.Domian\obj\Debug\net8.0\NutriCenter.Domian.AssemblyInfo.cs
+C:\JC\DESARROLLO\EJEMPLO\DESABLAZOR\NutriCenter\NutriCenter.Domian\obj\Debug\net8.0\NutriCenter.Domian.csproj.CoreCompileInputs.cache
+C:\JC\DESARROLLO\EJEMPLO\DESABLAZOR\NutriCenter\NutriCenter.Domian\obj\Debug\net8.0\NutriCenter.Domian.dll
+C:\JC\DESARROLLO\EJEMPLO\DESABLAZOR\NutriCenter\NutriCenter.Domian\obj\Debug\net8.0\refint\NutriCenter.Domian.dll
+C:\JC\DESARROLLO\EJEMPLO\DESABLAZOR\NutriCenter\NutriCenter.Domian\obj\Debug\net8.0\NutriCenter.Domian.pdb
+C:\JC\DESARROLLO\EJEMPLO\DESABLAZOR\NutriCenter\NutriCenter.Domian\obj\Debug\net8.0\ref\NutriCenter.Domian.dll
+C:\JC\DESARROLLO\EJEMPLO\DESABLAZOR\NutriCenter\NutriCenter.Domian\bin\Debug\net8.0\NutriCenter.Domian.runtimeconfig.json
+C:\JC\DESARROLLO\EJEMPLO\DESABLAZOR\NutriCenter\NutriCenter.Domian\obj\Debug\net8.0\NutriCenter.Domian.csproj.AssemblyReference.cache
+C:\JC\DESARROLLO\EJEMPLO\DESABLAZOR\NutriCenter\NutriCenter.Domian\obj\Debug\net8.0\NutriCenter.Domian.genruntimeconfig.cache
