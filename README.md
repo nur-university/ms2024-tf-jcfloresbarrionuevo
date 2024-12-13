@@ -2,11 +2,11 @@
 
 ### Estructura de la Solución
 
-####1. Capa de Aplicación:
+#### 1. Capa de Aplicación:
          Manejo de comandos y consultas (CQRS).
-####2. Capa de Dominio:
+#### 2. Capa de Dominio:
         Entidades, Agregados y Objetos de Valor.
-####3. Capa de Infraestructura:
+#### 3. Capa de Infraestructura:
         Persistencia de datos, eventos y manejadores.
-####4. Capa de Interfaz:
+#### 4. Capa de Interfaz:
         Exposición mediante controladores API.
