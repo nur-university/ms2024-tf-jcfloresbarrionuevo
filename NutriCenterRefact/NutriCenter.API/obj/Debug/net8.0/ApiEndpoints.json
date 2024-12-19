@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "NutriCenter.API.Controllers.PlanController",
+    "Method": "CrearPlan",
+    "RelativePath": "api/Plan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "NutriCenter.Aplication.Commands.CrearPlanCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NutriCenter.API.Controllers.PlanController",
+    "Method": "ObtenerPlan",
+    "RelativePath": "api/Plan",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NutriCenter.API.Controllers.RecetasController",
+    "Method": "CrearReceta",
+    "RelativePath": "api/Recetas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "NutriCenter.Aplication.Commands.CrearRecetaCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NutriCenter.API.Controllers.RecetasController",
+    "Method": "ObtenerRecetas",
+    "RelativePath": "api/Recetas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NutriCenter.API.Controllers.TiempoController",
+    "Method": "CrearTiempo",
+    "RelativePath": "api/Tiempo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "NutriCenter.Aplication.Commands.CrearTiempoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NutriCenter.API.Controllers.TiempoController",
+    "Method": "ObtenerTiempos",
+    "RelativePath": "api/Tiempo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
